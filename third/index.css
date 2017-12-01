@@ -1,0 +1,36 @@
+body{
+    background: whitesmoke;
+}
+
+header{
+    background: lightgray;
+    padding: 2vh 2vw;
+}
+.top {
+    background: rgb(8, 114, 212);
+    width: 8vw;
+    height: 8vw;
+}
+p {
+    padding: 8vw 12vw;
+    font-size: 2vw;
+    font-family: sans-serif;
+}
+#blue {
+    background: rgb(8, 114, 212);
+}
+#seagreen {
+    background: seagreen;
+}
+#puke {
+    background: yellowgreen;
+}
+#yellow {
+    background: yellow;
+}
+
+.rainbow {
+    height: 11.5vw;
+    width: 100vw;
+}
+
